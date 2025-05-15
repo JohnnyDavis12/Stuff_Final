@@ -1,5 +1,5 @@
-# John Davis and Mike Rabayda #
-## Machine Learning Final ##
+# Machine Learning Final #
+## John Davis and Mike Rabayda ##
 
 Attached is the final project for this semester's machine learning course. 
 
