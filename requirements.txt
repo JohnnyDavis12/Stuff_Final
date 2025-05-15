@@ -1,0 +1,28 @@
+# Core data libraries
+pandas
+numpy
+
+# Machine learning & statistical modeling
+scikit-learn
+statsmodels
+xgboost
+pygam
+optuna
+
+# Deep learning
+tensorflow
+
+# Baseball data
+pybaseball
+
+# Visualization
+bokeh
+matplotlib
+plotly
+chart-studio
+
+# Piecewise linear fit
+pwlf
+
+# Utilities
+joblib
